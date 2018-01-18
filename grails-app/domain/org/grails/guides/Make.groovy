@@ -10,4 +10,9 @@ class Make {
     String toString() {
         name
     }
+
+//    static mapping = {
+//        table schema: "grailsapp1"
+//    }
 }
+

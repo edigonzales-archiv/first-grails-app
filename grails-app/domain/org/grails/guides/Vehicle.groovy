@@ -13,4 +13,8 @@ class Vehicle {
         year min: 1900
         name maxSize: 255
     }
+
+//    static mapping = {
+//        table schema: "grailsapp1"
+//    }
 }
