@@ -11,6 +11,9 @@ out/
 .settings
 .classpath
 
+vagrant/db/.vagrant
+.vagrant
+
 
 # Created by https://www.gitignore.io/api/osx,java,gradle,grails
 
